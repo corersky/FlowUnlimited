@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">流量无限</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcomebegin">欢迎您参加用户小组调查，流量大爆炸的成长离不开你的帮助，我们真诚期待您的建议</string>
+    <string name="suggestions">您提的宝贵意见，在这里可以看到我们的回复哦!</string>
+    <string name="rule1">连续签到1-3天，每天可领取1颗智慧豆;</string>
+    <string name="rule2">连续签到3-7天，每天可领取2颗智慧豆;</string>
+    <string name="rule3">连续签到8-15天，每天可领取3颗智慧豆;</string>
+    <string name="rule4">连续签到16天，每天可领取4颗智慧豆;</string>
+    <string name="rule_attention">如果中途未签到，则连续签到天数重新计算，小伙伴们要坚持住哦！</string>
+</resources>
