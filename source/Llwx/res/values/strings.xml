@@ -26,6 +26,18 @@
             温馨提示：\n1:由于腾讯官方价格调整，Q币充值字10月1日上浮至95折\n2:Q币充值每次最多充40元，每月最多100元。
             \n3:原价Q币可获对等智慧豆奖励，充10Q币可获得10智慧豆。\n4:支付金额在当月话费中扣除，购买后不能退够。
     </string>
+    <string name="want_register">我要注册</string>
+    <string name="user_no">用户号码:</string>
+    <string name="sample_phoneno_register">例：18912345678←11位天翼手机号码</string>
+    <string name="send_again">如一分钟未收到，请点击重新获取</string>
+    <string name="confirm_open">确认开通</string>
+    <string name="kind_reminder">温馨提示</string>
+    <string name="tariff_description">1.资费说明：尊敬的用户，您即将选择中国电信提供的彩铃服务，该服务包月费每月3元。</string>
+    <string name="sms_way">2.短信开通方式，您可以发送KT到1000按照提示操作</string>
+    <string name="sms_tip">信息提示</string>
+    
+    
+    
     
 
 </resources>
