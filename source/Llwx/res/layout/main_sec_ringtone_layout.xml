@@ -193,8 +193,17 @@
                    android:layout_width="match_parent"
                    android:layout_height="wrap_content"
                    android:text="@string/tariff_description" />
-               
-               
+                   <include
+                   android:layout_width="match_parent"
+                   android:layout_height="1dp"
+                   android:layout_marginTop="15dp"
+                   layout="@layout/line" />
+               <TextView
+                   android:layout_marginLeft="20dp"
+                   android:layout_marginTop="15dp"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:text="@string/ringtone_cancel" />
            </LinearLayout>
        </LinearLayout>
         

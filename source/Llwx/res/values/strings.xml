@@ -32,9 +32,10 @@
     <string name="send_again">如一分钟未收到，请点击重新获取</string>
     <string name="confirm_open">确认开通</string>
     <string name="kind_reminder">温馨提示</string>
-    <string name="tariff_description">1.资费说明：尊敬的用户，您即将选择中国电信提供的彩铃服务，该服务包月费每月3元。</string>
+    <string name="tariff_description">2.资费说明：尊敬的用户，您即将选择中国电信提供的彩铃服务，该服务包月费每月3元。</string>
     <string name="sms_way">2.短信开通方式，您可以发送KT到1000按照提示操作</string>
     <string name="sms_tip">信息提示</string>
+    <string name="ringtone_cancel">3.彩铃退订方式，请咨询1000号货到联通营业厅办理</string>
     
     
     
